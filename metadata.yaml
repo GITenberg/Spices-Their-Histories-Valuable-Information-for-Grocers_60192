@@ -1,0 +1,26 @@
+_repo: Spices-Their-Histories-Valuable-Information-for-Grocers_60192
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fielding, Robert O.
+    gutenberg_agent_id: '50836'
+    url: http://www.gutenberg.org/2009/agents/50836
+description: ''
+gutenberg_issued: '2019-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60192'
+  lccn: '10028340'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Spices'
+- GITenberg
+tableOfContents: Introduction -- Allspice or pimento -- Capsicum -- Cinnamon and cassia
+  -- Cloves -- Ginger -- Mustard -- Nutmeg and mace -- Pepper -- Cumin, or cummin
+  seed.
+title: 'Spices, Their Histories: Valuable Information for Grocers'
+url: http://www.gutenberg.org/ebooks/60192
